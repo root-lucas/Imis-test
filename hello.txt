@@ -1,6 +1,2 @@
 my name is lucas 
-<<<<<<< HEAD
-Im is (git clone folder download 
-=======
-Im is (git clone folder download change contest)  111
->>>>>>> 22c047e99c47ebfb74b325f63dbd9c90ce779cfd
+hello world hahhaha111111
